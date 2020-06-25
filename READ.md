@@ -1,9 +1,12 @@
 Hello World
 
-JAVASCRIPT COURSE
+JAVASCRIPT Course
 
 Next Semester Python
 
 Artificial Intelligence
 
+Python
+
+MATLAB 
 ## Big Data
